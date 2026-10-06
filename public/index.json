@@ -1,1 +1,11 @@
-
+[
+  {
+    "id": "es.test",
+    "name": "Spanish Test",
+    "file": "es.test-v1.aix",
+    "icon": "es.test-v1.png",
+    "lang": "es",
+    "version": 1,
+    "nsfw": 0
+  }
+]
