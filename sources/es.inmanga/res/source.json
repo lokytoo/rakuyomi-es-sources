@@ -1,0 +1,12 @@
+{
+	"info": {
+		"id": "es.inmanga",
+		"name": "inManga",
+		"version": 1,
+		"url": "https://inmanga.com",
+		"contentRating": 0,
+		"languages": [
+			"es"
+		]
+	}
+}

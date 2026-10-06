@@ -1,11 +1,11 @@
 [
   {
-    "id": "es.test",
-    "name": "Spanish Test",
-    "file": "es.test-v1.aix",
-    "icon": "es.test-v1.png",
+    "id": "es.inmanga",
+    "name": "inManga",
+    "file": "es.inmanga-v1.aix",
+    "icon": "es.inmanga-v1.png",
     "lang": "es",
     "version": 1,
-    "nsfw": 0
+    "nsfw": 1
   }
 ]
